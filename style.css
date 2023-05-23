@@ -443,18 +443,9 @@ header {
   display: flex;
   flex-direction: row;
   position: relative;
-  border-left: 2px solid #fff;
   padding: 0 0 20px 20px;
 }
 
-.item-experience::before {
-  position: absolute;
-  content: "";
-  background: url("icons/point.svg") no-repeat;
-  height: 10px;
-  width: 10px;
-  left: -6px;
-}
 
 .last-item {
   border-left: 0;
