@@ -581,10 +581,12 @@ header {
 }
 
 .description-about li {
-  list-style-type: disc;
-  list-style-position: outside;
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 21px;
   color: #fff;
-  padding: 0 0 30px 15px;
 }
 
 .soft-skill-block {
